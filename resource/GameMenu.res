@@ -3,13 +3,13 @@
 	"1"
 	{
 		"label" "[S4F] SURF"
-		"command" "engine connect 45.179.91.41:30190"
+		"command" "engine connect 54.207.239.161:27016"
 		"OnlyInGame" "0"
 	}
 	"2"
 	{
 		"label" "[S4F] BHOP"
-		"command" "engine connect 45.179.91.41:30320"
+		"command" "engine connect 54.207.239.161:27015"
 		"OnlyInGame" "0"
 	}
 	"3"
